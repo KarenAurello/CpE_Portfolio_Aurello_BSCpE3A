@@ -82,11 +82,9 @@ A responsive website designed and developed using Readdy. The project focuses on
 ### Project Screenshot
 
 <p align="center">
-  <img src="images/SDESIG%20App/39af6270-6ca3-47dd-a015-580938b4b41f.jpg" height="400" />
-  <img src="images/SDESIG%20App/fc78ea56-76e6-4aad-90f3-bc142ce556e2.jpg" height="400" />
-  <img src="images/SDESIG%20App/295faa7e-8376-437b-bf8f-2d49b7f12092.jpg" height="400" />
-  <img src="images/SDESIG%20App/439589d6-389e-4c75-a53e-75d4c4b379c4.jpg" height="400" />
-</p>
+  <img src="images/TECHNO%20Website/597238c8-6ec0-49a4-9adb-060cbcf22c81.jpg" height="400" />
+  <img src="images/TECHNO%20Website/d57b998e-3d56-4f66-9f8b-d1a07eb1a150.jpg" height="400" />
+  </p>
 
 ---
 
