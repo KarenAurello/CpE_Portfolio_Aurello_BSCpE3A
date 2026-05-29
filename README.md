@@ -138,6 +138,80 @@ A prototype electronic circuit built using a breadboard for testing and developm
 
 ---
 
+## Other Programming Activities
+
+### Heat Index Calculator
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### Calculator Program
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### Loop Activity 1
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### Iteration
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### Operators
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### IDO Activity
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### String Manipulation
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### Variable Declaration
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
+### Information Program
+
+<p align="center">
+  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+</p>
+
+---
+
 # Goals
 
 My goal is to continuously improve my skills in software development, electronics, and system design. I aim to gain more experience in creating innovative solutions that combine programming and hardware technologies while preparing for a future career in Computer Engineering.
