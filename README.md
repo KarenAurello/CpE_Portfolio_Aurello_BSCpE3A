@@ -107,7 +107,7 @@ A custom PCB project designed and assembled to implement an electronic circuit i
 
 ### Project Screenshot
 
-![PCB Project](images/pcb-project.png)
+![PCB Project](images/PCB%20%26%20Breadboard/406ddf2f-397c-4413-84d9-5dee55891e61.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 
 ### Project Screenshot
 
-![Breadboard Project](images/breadboard-project.png)
+![Breadboard Project](images/PCB%20%26%20Breadboard/962250ad-50ff-4399-bb3e-ed1c7edd7f66.jpg)
 
 ---
 
