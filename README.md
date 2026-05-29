@@ -140,10 +140,15 @@ A prototype electronic circuit built using a breadboard for testing and developm
 
 ## Other Programming Activities
 
+### Technologies Used
+
+- C++
+- Online C++ Compiler
+- 
 ### Heat Index Calculator
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/c485dc3b-3ce5-480b-89f2-bbfa8bc59ab1.jpg" height="400" />
 </p>
 
 ---
@@ -151,7 +156,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### Calculator Program
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/d8fd5b9e-0421-4478-a9b6-b9711202a9b9.jpg" height="400" />
 </p>
 
 ---
@@ -159,7 +164,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### Loop Activity 1
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/7c0ab9c6-58b1-46c2-bf6a-3123f19f17a1.jpg" height="400" />
 </p>
 
 ---
@@ -167,7 +172,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### Iteration
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/681ffe84-7635-4c7f-ad44-6f5b0cac0482.jpg" height="400" />
 </p>
 
 ---
@@ -175,7 +180,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### Operators
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/eed9ba67-a00c-4507-a709-d0c6bedc35e0.jpg" height="400" />
 </p>
 
 ---
@@ -183,7 +188,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### IDO Activity
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/4597c112-38a5-4673-9ef4-9a9b2360513c.jpg" height="400" />
 </p>
 
 ---
@@ -191,7 +196,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### String Manipulation
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/416659aa-ba83-4f97-9b39-cff5947e0ea8.jpg" height="400" />
 </p>
 
 ---
@@ -199,7 +204,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### Variable Declaration
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/87757dbf-3308-43cc-ae0e-7a1d7f5a520a.jpg" height="400" />
 </p>
 
 ---
@@ -207,7 +212,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 ### Information Program
 
 <p align="center">
-  <img src="PASTE_IMAGE_PATH_HERE" height="400" />
+  <img src="images/Other%20Activities/50e41063-0c2a-404b-af30-98fde4c9364b.jpg" height="400" />
 </p>
 
 ---
