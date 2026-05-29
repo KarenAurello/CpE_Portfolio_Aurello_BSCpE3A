@@ -107,7 +107,9 @@ A custom PCB project designed and assembled to implement an electronic circuit i
 
 ### Project Screenshot
 
-![PCB Project](images/PCB%20%26%20Breadboard/406ddf2f-397c-4413-84d9-5dee55891e61.jpg)
+<p align="center">
+  <img src="images/PCB%20%26%20Breadboard/406ddf2f-397c-4413-84d9-5dee55891e61.jpg" height="400" />
+</p>
 
 ---
 
@@ -130,23 +132,9 @@ A prototype electronic circuit built using a breadboard for testing and developm
 
 ### Project Screenshot
 
-![Breadboard Project](images/PCB%20%26%20Breadboard/962250ad-50ff-4399-bb3e-ed1c7edd7f66.jpg)
-
----
-
-## Programming Project
-
-### Description
-A software application developed to strengthen programming skills and problem-solving abilities. The project demonstrates the implementation of algorithms, user interaction, and program functionality.
-
-### Technologies Used
-- Python
-- C++
-- Visual Studio Code
-
-### Project Screenshot
-
-![Programming Project](images/programming-project.png)
+<p align="center">
+  <img src="images/PCB%20%26%20Breadboard/962250ad-50ff-4399-bb3e-ed1c7edd7f66.jpg" height="400" />
+</p>
 
 ---
 
