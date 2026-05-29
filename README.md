@@ -6,7 +6,7 @@ This portfolio contains my academic projects, programming activities, hardware i
 
 ---
 
-# 👤 About Me
+# About Me
 
 ### Name
 Karen M. Aurello
@@ -21,7 +21,7 @@ I am interested in software development, mobile applications, web technologies, 
 
 ---
 
-# 🛠 Skills & Technologies
+# Skills & Technologies
 
 ### Programming Languages
 - Python
@@ -45,9 +45,9 @@ I am interested in software development, mobile applications, web technologies, 
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
-## 📱 Android Studio Mobile Application
+## Android Studio Mobile Application
 
 ### Description
 A mobile application developed using Android Studio that provides users with an efficient and user-friendly platform for managing tasks and accessing information.
@@ -63,7 +63,7 @@ A mobile application developed using Android Studio that provides users with an 
 
 ---
 
-## 🌐 Website Design Using Readdy
+## Website Design Using Readdy
 
 ### Description
 A responsive website designed and developed using Readdy. The project focuses on creating an attractive user interface and improving user experience through modern web design principles.
@@ -80,7 +80,7 @@ A responsive website designed and developed using Readdy. The project focuses on
 
 ---
 
-## 🔌 PCB-Based Electronics Project
+## PCB-Based Electronics Project
 
 ### Description
 A custom PCB project designed and assembled to implement an electronic circuit in a compact and organized form. The project demonstrates PCB design, circuit analysis, and component integration.
@@ -103,7 +103,7 @@ A custom PCB project designed and assembled to implement an electronic circuit i
 
 ---
 
-## 🔧 Breadboard Circuit Project
+## Breadboard Circuit Project
 
 ### Description
 A prototype electronic circuit built using a breadboard for testing and development purposes. The project focuses on understanding circuit behavior and hardware implementation before final PCB design.
@@ -126,7 +126,7 @@ A prototype electronic circuit built using a breadboard for testing and developm
 
 ---
 
-## 💻 Programming Project
+## Programming Project
 
 ### Description
 A software application developed to strengthen programming skills and problem-solving abilities. The project demonstrates the implementation of algorithms, user interaction, and program functionality.
@@ -142,13 +142,13 @@ A software application developed to strengthen programming skills and problem-so
 
 ---
 
-# 🎯 Goals
+# Goals
 
 My goal is to continuously improve my skills in software development, electronics, and system design. I aim to gain more experience in creating innovative solutions that combine programming and hardware technologies while preparing for a future career in Computer Engineering.
 
 ---
 
-# 📬 Contact Information
+# Contact Information
 
 - Email: karenaurello123@gmail.com
 - GitHub: https://github.com/KarenAurello
