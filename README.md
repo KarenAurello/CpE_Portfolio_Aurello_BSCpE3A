@@ -61,8 +61,8 @@ A mobile application developed using Android Studio that provides users with an 
 
 <p align="center">
   <img src="images/SDESIG%20App/39af6270-6ca3-47dd-a015-580938b4b41f.jpg" height="400" />
+  <img src="images/SDESIG%20App/fc78ea56-76e6-4aad-90f3-bc142ce556e2.jpg" height="400" />
   <img src="images/SDESIG%20App/295faa7e-8376-437b-bf8f-2d49b7f12092.jpg" height="400" />
-  <img src="images/SDESIG%20App/c846ce3e-6d95-4c35-a346-d146a3cc4e85.jpg" height="400" />
   <img src="images/SDESIG%20App/439589d6-389e-4c75-a53e-75d4c4b379c4.jpg" height="400" />
 </p>
 
